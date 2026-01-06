@@ -54,4 +54,4 @@ Unless otherwise noted, content in this repository is shared under the
 ---
 
 🌐 **Organization:** https://www.artisticimpression.org  
-🔗 **GitHub:** https://github.com/Artistic-Impression
+🔗 **GitHub:** https://github.com/ArtisticImpression
